@@ -1,0 +1,2 @@
+# Analytical-SQL-Business-Metrics-KPI-Analysis-and-Funnel-Conversion-Analysis
+Business-focused MySQL analytics project exploring revenue, orders, customers, products, cancellations, completion rates, AOV, conversion, and funnel performance. Uses CTEs, CASE statements, aggregations, JOINs, conditional aggregation, and benchmarking to turn transactional data into actionable business insights and diagnose performance gaps.
